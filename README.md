@@ -4,7 +4,7 @@
 
 Docker Compose configuration for a MySQL container with persistent data storage, mapping volumes to the root system for easy data management and persistence.
 
-> [!INFO]
+> [!TIP]
 > No new features are currently planned for this project. However, users are welcome to create issues or feature requests, which will be reviewed and responded to within 1–3 weeks.
 
 ## 🤝 Community Guidelines
